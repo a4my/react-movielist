@@ -1,4 +1,4 @@
-# react task tracker📽️
+# react movie list 📽️
 
 This repository contains the files for one of my first React projects, it is a simple watchlist where you can add and track the movies you would like to watch or that you've already watched. .
 
